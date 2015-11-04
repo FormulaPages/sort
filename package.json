@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FormulaPages/sort#readme",
   "dependencies": {
+    "formula-errors": "^1.0.2",
     "formula-isref": "^1.0.0"
   },
   "devDependencies": {
